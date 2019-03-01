@@ -1,7 +1,7 @@
 <?php
 // Construct   variables 
 
-
+ 
 
 $cartTotal = 1000.00;// This amount needs to be sourced from your application
 $data = array(
